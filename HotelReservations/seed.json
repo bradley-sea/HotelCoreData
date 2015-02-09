@@ -1,0 +1,160 @@
+{
+    "Hotels": [
+    {
+                "name" : "Fancy Estates",
+                "location" : "Downtown",
+                "stars" : 4,
+                "rooms" : [
+                {
+                           "number" : 101,
+                           "beds" : 2,
+                           "rate" : 4,
+                           "floor" : 20
+                },
+                {
+                           "number" : 102,
+                           "beds" : 2,
+                           "rate" : 4,
+                           "floor" : 20
+                },
+                {
+                           "number" : 103,
+                           "beds" : 2,
+                           "rate" : 4,
+                           "floor" : 20
+                },
+                
+                {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 4,
+                           "floor" : 20
+                },
+                
+                {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 4,
+                           "floor" : 20
+                }
+                ]
+    },
+                {
+                "name" : "Solid Stay",
+                "location" : "Ballard",
+                "stars" : 3,
+                "rooms" : [
+                           {
+                           "number" : 101,
+                           "beds" : 2,
+                           "rate" : 3,
+                           "floor" : 20
+                           },
+                           {
+                           "number" : 102,
+                           "beds" : 2,
+                           "rate" : 3,
+                           "floor" : 20
+                           },
+                           {
+                           "number" : 103,
+                           "beds" : 2,
+                           "rate" : 3,
+                           "floor" : 20
+                           },
+                           
+                           {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 3,
+                           "floor" : 20
+                           },
+                           
+                           {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 3,
+                           "floor" : 20
+                           }
+                           ]
+                },
+                {
+                "name" : "Decent Inn",
+                "location" : "U District",
+                "stars" : 3,
+                "rooms" : [
+                           {
+                           "number" : 101,
+                           "beds" : 2,
+                           "rate" : 2,
+                           "floor" : 20,
+                           },
+                           {
+                           "number" : 102,
+                           "beds" : 2,
+                           "rate" : 2,
+                           "floor" : 20
+                           },
+                           {
+                           "number" : 103,
+                           "beds" : 2,
+                           "rate" : 2,
+                           "floor" : 20
+                           },
+                           
+                           {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 2,
+                           "floor" : 20
+                           },
+                           
+                           {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 2,
+                           "floor" : 20
+                           }
+                           ]
+                },
+                {
+                "name" : "Okay Motel",
+                "location" : "Shoreline",
+                "stars" : 1,
+                "rooms" : [
+                           {
+                           "number" : 101,
+                           "beds" : 2,
+                           "rate" : 1,
+                           "floor" : 20
+                           },
+                           {
+                           "number" : 102,
+                           "beds" : 2,
+                           "rate" : 1,
+                           "floor" : 20
+                           },
+                           {
+                           "number" : 103,
+                           "beds" : 2,
+                           "rate" : 1,
+                           "floor" :20
+                           },
+                           
+                           {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 1,
+                           "floor" : 20
+                           },
+                           
+                           {
+                           "number" : 104,
+                           "beds" : 2,
+                           "rate" : 2,
+                           "floor" : 20
+                           }
+                           ]
+                }
+    ]
+}
